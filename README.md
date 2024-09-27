@@ -34,3 +34,6 @@ My name is Angel. Im from Spain and at the moment I am a student at the educatio
 ### English
 
 * At the moment my socials are under work and will be updated here shortly but as compesation here is a seal photo.
+
+[Foca](https://github.com/HerreraAngel/HerreraAngel/blob/main/IMGS/cypj7m8k07bz.jpg)
+
