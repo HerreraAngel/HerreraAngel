@@ -1,39 +1,46 @@
-## Salutations / Saludos 👋
+# 👋 Hi, I'm Ángel
 
-### Spanish
+## 🇪🇸 Español
 
-Mi nombre es Ángel. Soy de España y actualmente soy un estudiante del centro educativo Ies Miguel Herrero.
+Mi nombre es Ángel y soy de España.
 
+Me he graduado en Administración de Sistemas Informáticos en Red (ASIR) en el centro educativo IES Miguel Herrero. Me especializo en administración de sistemas, ciberseguridad y gestión de bases de datos.
 
-### English
+### Habilidades
 
-My name is Angel. Im from Spain and at the moment I am a student at the educational center IES Miguel Herrero.
+* Administración de sistemas Linux y Windows
+* Gestión de bases de datos
+* Ciberseguridad
+* Redes y servicios informáticos
+* Automatización y scripting
+* Virtualización
 
+### Idiomas
 
-## Skills / Habilidades
- * I have a C2 english title 
+* Español (nativo)
+* Inglés (nivel C2)
 
-### Spanish
+## 🇬🇧 English
 
-* Gestion de bases de datos 
-* Ciberseguridad 
-* Administracion de sistemas
+My name is Angel and I'm from Spain.
 
-### English
+I graduated in Network Systems Administration (ASIR) from IES Miguel Herrero. My areas of interest and expertise include system administration, cybersecurity, and database management.
 
-* Database management 
+### Skills
+
+* Linux and Windows System Administration
+* Database Management
 * Cybersecurity
-* System Administration
+* Networking and IT Services
+* Automation and Scripting
+* Virtualization
 
-## Contacto / Contact 
+### Languages
 
-### Spanish
+* Spanish (Native)
+* English (C2 Proficiency)
 
-* De momento mis redes sociales estan siendo trabajadas en ellas y seran actualizadas aqui pronto.
+## Contact
 
-### English
-
-* At the moment my socials are under work and will be updated here shortly but as compesation here is a seal photo.
-
-![Foca](https://github.com/HerreraAngel/HerreraAngel/blob/main/IMGS/cypj7m8k07bz%20(1).jpg)
+Feel free to connect with me through GitHub or other professional platforms.
 
